@@ -1,0 +1,9 @@
+*
+!game
+!game/**
+!engine/**
+!engine
+!external
+!.clang-format
+!.gitignore
+!CMakeLists.txt
