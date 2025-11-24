@@ -10,6 +10,7 @@
 - Easy to integrate with your projects (well… mostly)
 
 ## TODO
+- [ ] Recode to SDL
 - [ ] Add Camera
 - [ ] Add Model Loading
 - [ ] Add Bullet Physics
