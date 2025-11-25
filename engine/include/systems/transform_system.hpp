@@ -1,7 +1,7 @@
 #ifndef TRANSFORM_SYSTEM_HPP
 #define TRANSFORM_SYSTEM_HPP
 
-#include "../transform_component.hpp"
+#include "entity/components/transform_component.hpp"
 #include <vector>
 
 namespace Lance::Entities::Systems

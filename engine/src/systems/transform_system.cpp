@@ -1,4 +1,4 @@
-#include "entity/components/systems/transform_system.hpp"
+#include "systems/transform_system.hpp"
 #include <glm/gtc/matrix_transform.hpp>
 
 using namespace Lance::Entities::Systems;

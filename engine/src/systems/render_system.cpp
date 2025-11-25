@@ -1,4 +1,4 @@
-#include "entity/components/systems/render_system.hpp"
+#include "systems/render_system.hpp"
 #include "core/rendering/material.hpp"
 #include "core/rendering/mesh.hpp"
 #include <glm/glm.hpp>
